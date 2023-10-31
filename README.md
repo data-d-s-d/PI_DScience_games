@@ -71,8 +71,10 @@ Se creó una presentación en video para demostrar el funcionamiento de los punt
 - El video debe mostrar los puntos finales de la API en funcionamiento y proporcionar una breve descripción del modelo de aprendizaje automático utilizado para las recomendaciones. El video debe tener una duración máxima de 7 minutos.
 
 ## Conclusión <a name="conclusion"></a>
-- Presentación de resultados en un video, con explicaciones claras de la funcionalidad de la API y los modelos de aprendizaje automático.
-- Video de Presentación
-- El video debe mostrar los puntos finales de la API en funcionamiento y proporcionar una breve descripción del modelo de aprendizaje automático utilizado para las recomendaciones. El video debe tener una duración máxima de 7 minutos.
+A modo de conclusión, creo que es posible sostener que el resultado del proyecto fue un éxito, a pesar de todas las dificultades que se presnetaron a lo largo del camino. Todos los requisitos del proyecto han sido cumplidos, es decir que todos los endpoints requeridos fueron satisfechos, y el modelo de machine learning de recomendación funcionó a la perfección. 
 
-Conclusión:
+
+Muchas gracias por el interés.
+
+
+Mi linkedin: https://www.linkedin.com/in/diego-saint-denis/
