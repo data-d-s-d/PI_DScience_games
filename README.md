@@ -63,6 +63,8 @@ Se construyó un sistema de recomendación basado en aprendizaje automático. Pu
 recomendacion_juego: Dado un ID de producto, devuelve una lista de 5 juegos similares.
 Para probar el funcionamiento tanto del modelo de machine learning como de todos los endpoints del proyecto: https://proyecto-steam-games.onrender.com/docs
 
+Considero necesario dar cuenta de que realicé un recorte de la matriz de datos para realizar el modelo, ya que no podía subirla a Render. Utilicé 4000 juegos aproximadamente, en lugar de 10000 que tenía inicialmente.
+
 ### 7. Presentación en Video
 Se creó una presentación en video para demostrar el funcionamiento de los puntos finales de la API y proporcionar una breve descripción del modelo de aprendizaje automático utilizado para las recomendaciones.
 
