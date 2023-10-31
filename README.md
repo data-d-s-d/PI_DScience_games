@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/577/286/481/steam-logo-hd-wallpaper-preview.jpg" alt="Logo de Steam" width="1000">
+<img src="https://c4.wallpaperflare.com/wallpaper/577/286/481/steam-logo-hd-wallpaper-preview.jpg" alt="Logo de Steam" width="1200">
 
 # Proyecto Individual Machine Learning Operations Steam Games
 # Índice
