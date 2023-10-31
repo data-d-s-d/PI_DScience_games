@@ -81,8 +81,10 @@ Muchas gracias por el interés.
 
 
 Contacto: 
+<a href="https://www.linkedin.com/in/diego-saint-denis/">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30" height="30">
+</a>
 
-[![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)](https://www.linkedin.com/in/diego-saint-denis/)
 
 Tecnologías utilizadas
 Python | Pandas | Matplotlib | Seaborn | Scikit-Learn | Difflib | FastAPI | Render
