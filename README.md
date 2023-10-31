@@ -81,8 +81,9 @@ Muchas gracias por el interés.
 
 
 Contacto: 
+
 <a href="https://www.linkedin.com/in/diego-saint-denis/">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30" height="30">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="25" height="25">
 </a>
 
 
