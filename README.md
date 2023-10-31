@@ -65,6 +65,7 @@ recomendacion_juego: Dado un ID de producto, devuelve una lista de 5 juegos simi
 ### 7. Presentación en Video
 Se creó una presentación en video para demostrar el funcionamiento de los puntos finales de la API y proporcionar una breve descripción del modelo de aprendizaje automático utilizado para las recomendaciones.
 
+- video: [video: https://proyecto-steam-games.onrender.com/docs](https://drive.google.com/file/d/1f0ri2eLVHPHSWGqOCzbSTpigaazKGwFm/view?usp=sharing)
 
 ## Video de Presentación <a name="video-de-presentacion"></a>
 
