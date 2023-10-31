@@ -1,4 +1,4 @@
-# proyectos_data_science
+# Proyecto Individual Machine Learning Operations Steam Games
 README del Proyecto MVP - Análisis y Recomendación de Juegos
 Descripción del Proyecto
 Este proyecto está orientado al análisis y recomendación de juegos. 
