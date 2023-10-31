@@ -80,4 +80,9 @@ A modo de conclusión, creo que es posible sostener que el resultado del proyect
 Muchas gracias por el interés.
 
 
-Mi linkedin: https://www.linkedin.com/in/diego-saint-denis/
+Contacto: 
+
+[![LinkedIn](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)](https://www.linkedin.com/in/diego-saint-denis/)
+
+Tecnologías utilizadas
+Python | Pandas | Matplotlib | Seaborn | Scikit-Learn | Difflib | FastAPI | Render
