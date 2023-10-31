@@ -61,7 +61,7 @@ Se realizó un Análisis Exploratorio de Datos manual para explorar relaciones, 
 ### 6. Modelo de Aprendizaje Automático
 Se construyó un sistema de recomendación basado en aprendizaje automático. Pudimos elegir entre un sistema de recomendación de ítem-ítem o de usuario-ítem. Decidí realizar la primera opción:
 recomendacion_juego: Dado un ID de producto, devuelve una lista de 5 juegos similares.
-En la sección "about" del repositorio hay un enlace en el que se puede probar el funcionamiento tanto del modelo de machine learning como de todos los endpoints del proyecto.
+Para probar el funcionamiento tanto del modelo de machine learning como de todos los endpoints del proyecto: https://proyecto-steam-games.onrender.com/docs
 
 ### 7. Presentación en Video
 Se creó una presentación en video para demostrar el funcionamiento de los puntos finales de la API y proporcionar una breve descripción del modelo de aprendizaje automático utilizado para las recomendaciones.
