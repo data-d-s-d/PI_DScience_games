@@ -1,3 +1,4 @@
+![Texto alternativo](https://c4.wallpaperflare.com/wallpaper/577/286/481/steam-logo-hd-wallpaper-preview.jpg)
 # Proyecto Individual Machine Learning Operations Steam Games
 # Índice
 1. [Descripción del Proyecto](#descripcion-del-proyecto)
