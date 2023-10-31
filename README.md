@@ -65,11 +65,12 @@ recomendacion_juego: Dado un ID de producto, devuelve una lista de 5 juegos simi
 ### 7. Presentación en Video
 Se creó una presentación en video para demostrar el funcionamiento de los puntos finales de la API y proporcionar una breve descripción del modelo de aprendizaje automático utilizado para las recomendaciones.
 
-- video: [video: https://proyecto-steam-games.onrender.com/docs](https://drive.google.com/file/d/1f0ri2eLVHPHSWGqOCzbSTpigaazKGwFm/view?usp=sharing)
 
 ## Video de Presentación <a name="video-de-presentacion"></a>
 
 - El video debe mostrar los puntos finales de la API en funcionamiento y proporcionar una breve descripción del modelo de aprendizaje automático utilizado para las recomendaciones. El video debe tener una duración máxima de 7 minutos.
+
+- [video: https://proyecto-steam-games.onrender.com/docs](https://drive.google.com/file/d/1f0ri2eLVHPHSWGqOCzbSTpigaazKGwFm/view?usp=sharing)
 
 ## Conclusión <a name="conclusion"></a>
 A modo de conclusión, creo que es posible sostener que el resultado del proyecto fue un éxito, a pesar de todas las dificultades que se presnetaron a lo largo del camino. Todos los requisitos del proyecto han sido cumplidos, es decir que todos los endpoints requeridos fueron satisfechos, y el modelo de machine learning de recomendación funcionó a la perfección. 
