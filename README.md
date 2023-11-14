@@ -13,6 +13,7 @@
    - [Presentación en Video](#presentacion-en-video)
 3. [Video de Presentación](#video-de-presentacion)
 4. [Conclusión](#conclusion)
+5. [Tecnologías utilizadas] (#tecnologias-utilizadas)
 # README del Proyecto MVP - Análisis y Recomendación de Juegos <a name="descripcion-del-proyecto"></a>
 
 ## Descripción del Proyecto
@@ -82,12 +83,12 @@ A modo de conclusión, creo que es posible sostener que el resultado del proyect
 Muchas gracias por el interés.
 
 
-Contacto: 
+## Contacto: 
 
 <a href="https://www.linkedin.com/in/diego-saint-denis/">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="25" height="25">
 </a>
 
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 Python | Pandas | Matplotlib | Seaborn | Scikit-Learn | Difflib | FastAPI | Render
